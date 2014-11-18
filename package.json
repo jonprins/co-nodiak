@@ -1,0 +1,15 @@
+{
+  "name": "co-nodiak",
+  "version": "0.0.0",
+  "description": "A wrapper around nodiak that works nicely with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Prins",
+  "license": "ISC",
+  "dependencies": {
+    "co-stream": "0.0.8",
+    "nodiak": "^0.4.3"
+  }
+}
